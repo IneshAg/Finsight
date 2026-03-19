@@ -1,0 +1,10 @@
+{
+  "profile_name": "Priya Sharma",
+  "profile_description": "Working professional with subscription overload",
+  "user_id": "demo_priya_001",
+  "current_balance": 126000,
+  "salary": 85000,
+  "salary_date": 1,
+  "quarters": ["Q1_nov_jan.json", "Q2_feb_apr.json", "Q3_may_jul.json", "Q4_aug_oct.json"],
+  "current_quarter": "Q4_aug_oct.json"
+}

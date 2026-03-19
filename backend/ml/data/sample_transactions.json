@@ -1,0 +1,6154 @@
+[
+  {
+    "user_id": "user_0",
+    "merchant": "BIGBASKET 1174",
+    "amount": 3510.89,
+    "category": "Groceries",
+    "date": "2025-09-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "AJIO FASHION 1088",
+    "amount": 4957.73,
+    "category": "Shopping",
+    "date": "2025-09-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SWIGGY ORDER 7980",
+    "amount": 3071.9,
+    "category": "Food and Dining",
+    "date": "2025-09-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "JIO RECHARGE 8560",
+    "amount": 1651.57,
+    "category": "Utilities",
+    "date": "2025-09-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "RELIANCE FRESH 5514",
+    "amount": 3460.08,
+    "category": "Groceries",
+    "date": "2025-09-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CRED RENT 9222",
+    "amount": 47221.68,
+    "category": "Rent",
+    "date": "2025-09-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "AJIO FASHION 8915",
+    "amount": 4526.34,
+    "category": "Shopping",
+    "date": "2025-09-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "ADANI GAS 9775",
+    "amount": 3995.12,
+    "category": "Utilities",
+    "date": "2025-09-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "PVR CINEMAS 8716",
+    "amount": 3047.01,
+    "category": "Entertainment",
+    "date": "2025-09-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "UBER INDIA 4536",
+    "amount": 1967.76,
+    "category": "Travel",
+    "date": "2025-09-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "DUNZO 6331",
+    "amount": 1070.18,
+    "category": "Groceries",
+    "date": "2025-10-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "IRCTC 6666",
+    "amount": 3925.6,
+    "category": "Travel",
+    "date": "2025-10-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BESCOM ELECTRIC 6618",
+    "amount": 2479.4,
+    "category": "Utilities",
+    "date": "2025-10-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 7664",
+    "amount": 48357.35,
+    "category": "Rent",
+    "date": "2025-10-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 2960",
+    "amount": 8726.8,
+    "category": "EMI",
+    "date": "2025-10-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "IRCTC 5148",
+    "amount": 3976.38,
+    "category": "Travel",
+    "date": "2025-10-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BAJAJ FINSERV 1949",
+    "amount": 10970.57,
+    "category": "EMI",
+    "date": "2025-10-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SBI CARD EMI 5252",
+    "amount": 11465.46,
+    "category": "EMI",
+    "date": "2025-10-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NETFLIX COM 1292",
+    "amount": 488.14,
+    "category": "Entertainment",
+    "date": "2025-10-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "ADANI GAS 6441",
+    "amount": 1040.49,
+    "category": "Utilities",
+    "date": "2025-10-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SPOTIFY INDIA 2218",
+    "amount": 3494.67,
+    "category": "Entertainment",
+    "date": "2025-10-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BAJAJ FINSERV 5919",
+    "amount": 11804.44,
+    "category": "EMI",
+    "date": "2025-10-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "LENSKART 1449",
+    "amount": 810.05,
+    "category": "Shopping",
+    "date": "2025-10-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CRED RENT 3851",
+    "amount": 38550.12,
+    "category": "Rent",
+    "date": "2025-10-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "RELIANCE DIGITAL 4258",
+    "amount": 540.99,
+    "category": "Shopping",
+    "date": "2025-10-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "PVR CINEMAS 9301",
+    "amount": 697.6,
+    "category": "Entertainment",
+    "date": "2025-10-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SPOTIFY INDIA 1346",
+    "amount": 1437.88,
+    "category": "Entertainment",
+    "date": "2025-10-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BIGBASKET 2295",
+    "amount": 1277.09,
+    "category": "Groceries",
+    "date": "2025-10-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "REDBUS 4881",
+    "amount": 4406.63,
+    "category": "Travel",
+    "date": "2025-10-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CRED RENT 9120",
+    "amount": 22100.14,
+    "category": "Rent",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 7978",
+    "amount": 39321.75,
+    "category": "Rent",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 7360",
+    "amount": 40990.71,
+    "category": "Rent",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "JIO RECHARGE 4948",
+    "amount": 2951.67,
+    "category": "Utilities",
+    "date": "2025-10-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "ZEPTO 9991",
+    "amount": 2994.35,
+    "category": "Groceries",
+    "date": "2025-10-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 6807",
+    "amount": 14225.36,
+    "category": "EMI",
+    "date": "2025-11-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HOTSTAR DISNEY 2274",
+    "amount": 4815.8,
+    "category": "Entertainment",
+    "date": "2025-11-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 4476",
+    "amount": 32887.04,
+    "category": "Rent",
+    "date": "2025-11-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CLEARTRIP 6396",
+    "amount": 4801.56,
+    "category": "Travel",
+    "date": "2025-11-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "DUNZO 2447",
+    "amount": 4918.11,
+    "category": "Groceries",
+    "date": "2025-11-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "RELIANCE FRESH 8503",
+    "amount": 2899.66,
+    "category": "Groceries",
+    "date": "2025-11-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BLINKIT 4126",
+    "amount": 3848.18,
+    "category": "Groceries",
+    "date": "2025-11-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "FLIPKART PAY 4319",
+    "amount": 110.09,
+    "category": "Shopping",
+    "date": "2025-11-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "MAKEMYTRIP 8353",
+    "amount": 2278.3,
+    "category": "Travel",
+    "date": "2025-11-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 1198",
+    "amount": 29972.5,
+    "category": "Rent",
+    "date": "2025-11-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NETFLIX COM 6125",
+    "amount": 2721.19,
+    "category": "Entertainment",
+    "date": "2025-11-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CLEARTRIP 3851",
+    "amount": 1760.84,
+    "category": "Travel",
+    "date": "2025-11-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HOUSING COM RENT 6031",
+    "amount": 44740.98,
+    "category": "Rent",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "ZEPTO 7161",
+    "amount": 943.81,
+    "category": "Groceries",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "FLIPKART PAY 1957",
+    "amount": 1126.73,
+    "category": "Shopping",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 6135",
+    "amount": 5943.43,
+    "category": "EMI",
+    "date": "2025-11-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 3015",
+    "amount": 7043.83,
+    "category": "EMI",
+    "date": "2025-11-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SPOTIFY INDIA 7787",
+    "amount": 3152.02,
+    "category": "Entertainment",
+    "date": "2025-11-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "FLIPKART PAY 7747",
+    "amount": 3858.27,
+    "category": "Shopping",
+    "date": "2025-11-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "ZEPTO 6197",
+    "amount": 1908.07,
+    "category": "Groceries",
+    "date": "2025-11-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "PVR CINEMAS 1234",
+    "amount": 537.12,
+    "category": "Entertainment",
+    "date": "2025-11-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "MAKEMYTRIP 6684",
+    "amount": 1706.36,
+    "category": "Travel",
+    "date": "2025-11-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "ADANI GAS 2326",
+    "amount": 2387.47,
+    "category": "Utilities",
+    "date": "2025-11-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SBI CARD EMI 1914",
+    "amount": 12207.96,
+    "category": "EMI",
+    "date": "2025-11-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 1971",
+    "amount": 6933.71,
+    "category": "EMI",
+    "date": "2025-11-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "MC DONALDS 5789",
+    "amount": 3531.92,
+    "category": "Food and Dining",
+    "date": "2025-11-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 3746",
+    "amount": 29217.88,
+    "category": "Rent",
+    "date": "2025-11-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BAJAJ FINSERV 1258",
+    "amount": 12502.16,
+    "category": "EMI",
+    "date": "2025-11-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "DOMINOS PIZZA 6578",
+    "amount": 3447.46,
+    "category": "Food and Dining",
+    "date": "2025-11-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "AMZN MKTP IN 5485",
+    "amount": 3761.41,
+    "category": "Shopping",
+    "date": "2025-12-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NETFLIX COM 4885",
+    "amount": 3870.3,
+    "category": "Entertainment",
+    "date": "2025-12-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CRED RENT 9352",
+    "amount": 40971.0,
+    "category": "Rent",
+    "date": "2025-12-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "RELIANCE FRESH 7071",
+    "amount": 2689.94,
+    "category": "Groceries",
+    "date": "2025-12-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "STARBUCKS COFFEE 2409",
+    "amount": 2855.08,
+    "category": "Food and Dining",
+    "date": "2025-12-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "DECATHLON SPORT 1322",
+    "amount": 4425.57,
+    "category": "Shopping",
+    "date": "2025-12-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SWIGGY ORDER 5627",
+    "amount": 1221.62,
+    "category": "Food and Dining",
+    "date": "2025-12-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BAJAJ FINSERV 9452",
+    "amount": 9491.94,
+    "category": "EMI",
+    "date": "2025-12-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 3765",
+    "amount": 14070.24,
+    "category": "EMI",
+    "date": "2025-12-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BLINKIT 3539",
+    "amount": 3182.55,
+    "category": "Groceries",
+    "date": "2025-12-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NETFLIX COM 3098",
+    "amount": 2142.64,
+    "category": "Entertainment",
+    "date": "2025-12-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HOTSTAR DISNEY 4047",
+    "amount": 2479.06,
+    "category": "Entertainment",
+    "date": "2025-12-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BESCOM ELECTRIC 6910",
+    "amount": 1249.62,
+    "category": "Utilities",
+    "date": "2025-12-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 9198",
+    "amount": 12460.41,
+    "category": "EMI",
+    "date": "2025-12-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "MAKEMYTRIP 5524",
+    "amount": 3639.91,
+    "category": "Travel",
+    "date": "2025-12-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "DUNZO 9024",
+    "amount": 2637.78,
+    "category": "Groceries",
+    "date": "2025-12-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SPOTIFY INDIA 2979",
+    "amount": 955.09,
+    "category": "Entertainment",
+    "date": "2025-12-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 3468",
+    "amount": 11476.88,
+    "category": "EMI",
+    "date": "2025-12-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "RELIANCE DIGITAL 5239",
+    "amount": 4857.64,
+    "category": "Shopping",
+    "date": "2025-12-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SPOTIFY INDIA 7947",
+    "amount": 1477.88,
+    "category": "Entertainment",
+    "date": "2025-12-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SPOTIFY INDIA 7837",
+    "amount": 4492.64,
+    "category": "Entertainment",
+    "date": "2026-01-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "IRCTC 7102",
+    "amount": 2621.46,
+    "category": "Travel",
+    "date": "2026-01-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SBI CARD EMI 3685",
+    "amount": 6140.35,
+    "category": "EMI",
+    "date": "2026-01-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "RELIANCE FRESH 9416",
+    "amount": 4270.86,
+    "category": "Groceries",
+    "date": "2026-01-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "AMZN MKTP IN 5187",
+    "amount": 3175.56,
+    "category": "Shopping",
+    "date": "2026-01-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "RELIANCE DIGITAL 6433",
+    "amount": 3545.15,
+    "category": "Shopping",
+    "date": "2026-01-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BAJAJ FINSERV 8249",
+    "amount": 8493.01,
+    "category": "EMI",
+    "date": "2026-01-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "MYNTRA COM 6694",
+    "amount": 4083.88,
+    "category": "Shopping",
+    "date": "2026-01-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "UBER INDIA 7008",
+    "amount": 3361.96,
+    "category": "Travel",
+    "date": "2026-01-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HOTSTAR DISNEY 7167",
+    "amount": 2359.06,
+    "category": "Entertainment",
+    "date": "2026-01-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 8204",
+    "amount": 26311.97,
+    "category": "Rent",
+    "date": "2026-01-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SPOTIFY INDIA 9076",
+    "amount": 4631.68,
+    "category": "Entertainment",
+    "date": "2026-01-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 4531",
+    "amount": 13808.18,
+    "category": "EMI",
+    "date": "2026-01-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "STARBUCKS COFFEE 9814",
+    "amount": 431.24,
+    "category": "Food and Dining",
+    "date": "2026-01-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "PVR CINEMAS 5982",
+    "amount": 3524.44,
+    "category": "Entertainment",
+    "date": "2026-01-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CLEARTRIP 1897",
+    "amount": 4055.03,
+    "category": "Travel",
+    "date": "2026-01-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "JIO RECHARGE 6937",
+    "amount": 4223.85,
+    "category": "Utilities",
+    "date": "2026-01-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HDFC BANK EMI 3282",
+    "amount": 13381.86,
+    "category": "EMI",
+    "date": "2026-01-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BOOKMYSHOW 5749",
+    "amount": 903.9,
+    "category": "Entertainment",
+    "date": "2026-01-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "JIO RECHARGE 2643",
+    "amount": 4484.63,
+    "category": "Utilities",
+    "date": "2026-01-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "YOUTUBE PREMIUM 1088",
+    "amount": 1296.32,
+    "category": "Entertainment",
+    "date": "2026-01-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "ADANI GAS 6433",
+    "amount": 438.69,
+    "category": "Utilities",
+    "date": "2026-01-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BESCOM ELECTRIC 7507",
+    "amount": 2677.95,
+    "category": "Utilities",
+    "date": "2026-01-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "LENSKART 4615",
+    "amount": 4425.97,
+    "category": "Shopping",
+    "date": "2026-01-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "IRCTC 6308",
+    "amount": 1495.92,
+    "category": "Travel",
+    "date": "2026-01-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BLUES TOKAI 5077",
+    "amount": 2581.19,
+    "category": "Food and Dining",
+    "date": "2026-01-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SBI CARD EMI 2536",
+    "amount": 13839.13,
+    "category": "EMI",
+    "date": "2026-01-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "AMZN MKTP IN 1529",
+    "amount": 837.37,
+    "category": "Shopping",
+    "date": "2026-01-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "RELIANCE FRESH 9281",
+    "amount": 4021.74,
+    "category": "Groceries",
+    "date": "2026-02-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "MYNTRA COM 8359",
+    "amount": 3465.37,
+    "category": "Shopping",
+    "date": "2026-02-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SBI CARD EMI 2008",
+    "amount": 5941.91,
+    "category": "EMI",
+    "date": "2026-02-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "LENSKART 7416",
+    "amount": 4263.43,
+    "category": "Shopping",
+    "date": "2026-02-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SBI CARD EMI 2969",
+    "amount": 7974.71,
+    "category": "EMI",
+    "date": "2026-02-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BESCOM ELECTRIC 8677",
+    "amount": 2405.93,
+    "category": "Utilities",
+    "date": "2026-02-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "DECATHLON SPORT 6461",
+    "amount": 2776.03,
+    "category": "Shopping",
+    "date": "2026-02-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "IRCTC 2306",
+    "amount": 3991.26,
+    "category": "Travel",
+    "date": "2026-02-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BLINKIT 7605",
+    "amount": 1953.78,
+    "category": "Groceries",
+    "date": "2026-02-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HOTSTAR DISNEY 2735",
+    "amount": 4542.71,
+    "category": "Entertainment",
+    "date": "2026-02-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CRED RENT 3899",
+    "amount": 38540.77,
+    "category": "Rent",
+    "date": "2026-02-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NETFLIX COM 6292",
+    "amount": 4230.15,
+    "category": "Entertainment",
+    "date": "2026-02-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "DUNZO 6765",
+    "amount": 3937.76,
+    "category": "Groceries",
+    "date": "2026-02-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "STARBUCKS COFFEE 8006",
+    "amount": 2445.74,
+    "category": "Food and Dining",
+    "date": "2026-02-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HOUSING COM RENT 7230",
+    "amount": 39261.73,
+    "category": "Rent",
+    "date": "2026-02-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 8452",
+    "amount": 23149.03,
+    "category": "Rent",
+    "date": "2026-02-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "YOUTUBE PREMIUM 7923",
+    "amount": 102.34,
+    "category": "Entertainment",
+    "date": "2026-02-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "AMZN MKTP IN 7613",
+    "amount": 3630.36,
+    "category": "Shopping",
+    "date": "2026-02-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NETFLIX COM 6706",
+    "amount": 3420.94,
+    "category": "Entertainment",
+    "date": "2026-02-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NETFLIX COM 6326",
+    "amount": 355.91,
+    "category": "Entertainment",
+    "date": "2026-02-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NETFLIX COM 8590",
+    "amount": 794.2,
+    "category": "Entertainment",
+    "date": "2026-02-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "UBER EATS 7500",
+    "amount": 3287.37,
+    "category": "Food and Dining",
+    "date": "2026-02-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "KFC RESTAURANT 6094",
+    "amount": 3861.56,
+    "category": "Food and Dining",
+    "date": "2026-03-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NYKAA RETAIL 4257",
+    "amount": 2146.26,
+    "category": "Shopping",
+    "date": "2026-03-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 9249",
+    "amount": 40113.76,
+    "category": "Rent",
+    "date": "2026-03-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "DUNZO 2408",
+    "amount": 995.1,
+    "category": "Groceries",
+    "date": "2026-03-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BIGBASKET 8854",
+    "amount": 2203.96,
+    "category": "Groceries",
+    "date": "2026-03-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "BESCOM ELECTRIC 6841",
+    "amount": 2122.16,
+    "category": "Utilities",
+    "date": "2026-03-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "ADANI GAS 6222",
+    "amount": 194.75,
+    "category": "Utilities",
+    "date": "2026-03-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CLEARTRIP 9139",
+    "amount": 359.55,
+    "category": "Travel",
+    "date": "2026-03-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HOUSING COM RENT 4843",
+    "amount": 23969.44,
+    "category": "Rent",
+    "date": "2026-03-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "OLA CAB 3219",
+    "amount": 3351.28,
+    "category": "Travel",
+    "date": "2026-03-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "HOUSING COM RENT 1979",
+    "amount": 41321.49,
+    "category": "Rent",
+    "date": "2026-03-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "YOUTUBE PREMIUM 9786",
+    "amount": 3974.37,
+    "category": "Entertainment",
+    "date": "2026-03-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "NOBROKER RENT 3310",
+    "amount": 26003.84,
+    "category": "Rent",
+    "date": "2026-03-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "IRCTC 2706",
+    "amount": 1759.24,
+    "category": "Travel",
+    "date": "2026-03-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "ICICI LOAN 5514",
+    "amount": 13956.77,
+    "category": "EMI",
+    "date": "2026-03-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "AJIO FASHION 1538",
+    "amount": 3555.64,
+    "category": "Shopping",
+    "date": "2026-03-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "CLEARTRIP 4941",
+    "amount": 3223.61,
+    "category": "Travel",
+    "date": "2026-03-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_0",
+    "merchant": "SPOTIFY INDIA 4534",
+    "amount": 2765.23,
+    "category": "Entertainment",
+    "date": "2026-03-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "UBER INDIA 6058",
+    "amount": 3612.45,
+    "category": "Travel",
+    "date": "2025-09-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "INDIGO AIR 5126",
+    "amount": 218.42,
+    "category": "Travel",
+    "date": "2025-09-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "YOUTUBE PREMIUM 8513",
+    "amount": 3380.63,
+    "category": "Entertainment",
+    "date": "2025-09-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "PVR CINEMAS 5226",
+    "amount": 2868.14,
+    "category": "Entertainment",
+    "date": "2025-09-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLINKIT 2260",
+    "amount": 3561.83,
+    "category": "Groceries",
+    "date": "2025-09-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLINKIT 9691",
+    "amount": 2147.95,
+    "category": "Groceries",
+    "date": "2025-09-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "ZOMATO FOOD 6379",
+    "amount": 2042.18,
+    "category": "Food and Dining",
+    "date": "2025-09-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MYNTRA COM 7907",
+    "amount": 2055.68,
+    "category": "Shopping",
+    "date": "2025-09-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 6150",
+    "amount": 37582.24,
+    "category": "Rent",
+    "date": "2025-09-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "SPOTIFY INDIA 3982",
+    "amount": 3472.67,
+    "category": "Entertainment",
+    "date": "2025-09-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BIGBASKET 8042",
+    "amount": 2200.95,
+    "category": "Groceries",
+    "date": "2025-10-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BIGBASKET 5506",
+    "amount": 2039.17,
+    "category": "Groceries",
+    "date": "2025-10-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HDFC BANK EMI 5493",
+    "amount": 6084.95,
+    "category": "EMI",
+    "date": "2025-10-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HOUSING COM RENT 6093",
+    "amount": 20080.09,
+    "category": "Rent",
+    "date": "2025-10-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "INDIGO AIR 8886",
+    "amount": 2927.56,
+    "category": "Travel",
+    "date": "2025-10-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "LENSKART 5607",
+    "amount": 593.85,
+    "category": "Shopping",
+    "date": "2025-10-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "PVR CINEMAS 6126",
+    "amount": 3724.68,
+    "category": "Entertainment",
+    "date": "2025-10-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MYNTRA COM 4951",
+    "amount": 1248.82,
+    "category": "Shopping",
+    "date": "2025-10-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MAKEMYTRIP 9122",
+    "amount": 454.2,
+    "category": "Travel",
+    "date": "2025-10-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 7357",
+    "amount": 43381.56,
+    "category": "Rent",
+    "date": "2025-10-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "ADANI GAS 4031",
+    "amount": 3162.77,
+    "category": "Utilities",
+    "date": "2025-10-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BIGBASKET 4361",
+    "amount": 3485.62,
+    "category": "Groceries",
+    "date": "2025-10-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "TATA PLAY 3358",
+    "amount": 847.66,
+    "category": "Utilities",
+    "date": "2025-10-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HDFC BANK EMI 8353",
+    "amount": 12325.35,
+    "category": "EMI",
+    "date": "2025-10-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MYNTRA COM 9727",
+    "amount": 3605.61,
+    "category": "Shopping",
+    "date": "2025-10-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 8395",
+    "amount": 29581.67,
+    "category": "Rent",
+    "date": "2025-10-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CRED RENT 1044",
+    "amount": 26566.66,
+    "category": "Rent",
+    "date": "2025-10-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NYKAA RETAIL 5859",
+    "amount": 577.09,
+    "category": "Shopping",
+    "date": "2025-10-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BAJAJ FINSERV 1413",
+    "amount": 7559.98,
+    "category": "EMI",
+    "date": "2025-10-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CRED RENT 3793",
+    "amount": 46784.64,
+    "category": "Rent",
+    "date": "2025-10-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HDFC BANK EMI 8079",
+    "amount": 13536.08,
+    "category": "EMI",
+    "date": "2025-10-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "ADANI GAS 7614",
+    "amount": 4800.83,
+    "category": "Utilities",
+    "date": "2025-10-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "UBER INDIA 2778",
+    "amount": 1033.27,
+    "category": "Travel",
+    "date": "2025-10-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "FLIPKART PAY 4823",
+    "amount": 220.31,
+    "category": "Shopping",
+    "date": "2025-10-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 1496",
+    "amount": 42612.93,
+    "category": "Rent",
+    "date": "2025-10-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "RELIANCE FRESH 7388",
+    "amount": 3469.12,
+    "category": "Groceries",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "FLIPKART PAY 1824",
+    "amount": 3118.95,
+    "category": "Shopping",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CRED RENT 4422",
+    "amount": 26247.59,
+    "category": "Rent",
+    "date": "2025-10-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "LENSKART 8247",
+    "amount": 1429.18,
+    "category": "Shopping",
+    "date": "2025-11-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "FLIPKART PAY 9026",
+    "amount": 1455.95,
+    "category": "Shopping",
+    "date": "2025-11-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "ZOMATO FOOD 2726",
+    "amount": 4754.87,
+    "category": "Food and Dining",
+    "date": "2025-11-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "IRCTC 2229",
+    "amount": 3604.09,
+    "category": "Travel",
+    "date": "2025-11-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MAKEMYTRIP 3259",
+    "amount": 3930.05,
+    "category": "Travel",
+    "date": "2025-11-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "LENSKART 7721",
+    "amount": 4974.99,
+    "category": "Shopping",
+    "date": "2025-11-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BOOKMYSHOW 8959",
+    "amount": 1814.74,
+    "category": "Entertainment",
+    "date": "2025-11-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MYNTRA COM 4123",
+    "amount": 1765.67,
+    "category": "Shopping",
+    "date": "2025-11-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "SWIGGY ORDER 5413",
+    "amount": 3740.69,
+    "category": "Food and Dining",
+    "date": "2025-11-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "OLA CAB 5717",
+    "amount": 662.95,
+    "category": "Travel",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "PIZZA HUT 5252",
+    "amount": 481.55,
+    "category": "Food and Dining",
+    "date": "2025-11-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "PIZZA HUT 5223",
+    "amount": 2296.48,
+    "category": "Food and Dining",
+    "date": "2025-11-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BIGBASKET 4411",
+    "amount": 4492.6,
+    "category": "Groceries",
+    "date": "2025-11-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "OLA CAB 1304",
+    "amount": 2299.46,
+    "category": "Travel",
+    "date": "2025-11-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BAJAJ FINSERV 3386",
+    "amount": 10481.7,
+    "category": "EMI",
+    "date": "2025-11-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "SPOTIFY INDIA 1957",
+    "amount": 175.17,
+    "category": "Entertainment",
+    "date": "2025-11-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "RELIANCE DIGITAL 2519",
+    "amount": 2034.65,
+    "category": "Shopping",
+    "date": "2025-11-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLINKIT 8022",
+    "amount": 2284.42,
+    "category": "Groceries",
+    "date": "2025-11-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CRED RENT 3562",
+    "amount": 29974.84,
+    "category": "Rent",
+    "date": "2025-11-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 4510",
+    "amount": 22937.76,
+    "category": "Rent",
+    "date": "2025-11-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "RELIANCE DIGITAL 8628",
+    "amount": 303.96,
+    "category": "Shopping",
+    "date": "2025-11-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "RELIANCE FRESH 8480",
+    "amount": 1593.81,
+    "category": "Groceries",
+    "date": "2025-12-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "SBI CARD EMI 9355",
+    "amount": 6497.45,
+    "category": "EMI",
+    "date": "2025-12-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "UBER INDIA 2303",
+    "amount": 2718.58,
+    "category": "Travel",
+    "date": "2025-12-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "UBER EATS 9163",
+    "amount": 3471.38,
+    "category": "Food and Dining",
+    "date": "2025-12-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NYKAA RETAIL 5817",
+    "amount": 4976.82,
+    "category": "Shopping",
+    "date": "2025-12-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HDFC BANK EMI 1667",
+    "amount": 13081.06,
+    "category": "EMI",
+    "date": "2025-12-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "REDBUS 4245",
+    "amount": 2593.51,
+    "category": "Travel",
+    "date": "2025-12-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "ICICI LOAN 5279",
+    "amount": 14439.47,
+    "category": "EMI",
+    "date": "2025-12-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "AMZN MKTP IN 4320",
+    "amount": 1071.92,
+    "category": "Shopping",
+    "date": "2025-12-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "REDBUS 3215",
+    "amount": 130.85,
+    "category": "Travel",
+    "date": "2025-12-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CRED RENT 7025",
+    "amount": 35956.34,
+    "category": "Rent",
+    "date": "2025-12-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CLEARTRIP 5251",
+    "amount": 2017.66,
+    "category": "Travel",
+    "date": "2025-12-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "UBER EATS 8684",
+    "amount": 2571.81,
+    "category": "Food and Dining",
+    "date": "2025-12-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NYKAA RETAIL 3240",
+    "amount": 2110.58,
+    "category": "Shopping",
+    "date": "2025-12-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "INDIGO AIR 4346",
+    "amount": 2010.42,
+    "category": "Travel",
+    "date": "2025-12-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "FLIPKART PAY 7770",
+    "amount": 1301.05,
+    "category": "Shopping",
+    "date": "2025-12-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HOUSING COM RENT 8066",
+    "amount": 26105.09,
+    "category": "Rent",
+    "date": "2025-12-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "RELIANCE FRESH 4504",
+    "amount": 3774.56,
+    "category": "Groceries",
+    "date": "2025-12-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "STARBUCKS COFFEE 6318",
+    "amount": 1941.68,
+    "category": "Food and Dining",
+    "date": "2025-12-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "INDIGO AIR 2366",
+    "amount": 688.12,
+    "category": "Travel",
+    "date": "2025-12-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLUES TOKAI 7010",
+    "amount": 3949.54,
+    "category": "Food and Dining",
+    "date": "2025-12-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "STARBUCKS COFFEE 6462",
+    "amount": 4922.27,
+    "category": "Food and Dining",
+    "date": "2025-12-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MAKEMYTRIP 6248",
+    "amount": 262.97,
+    "category": "Travel",
+    "date": "2025-12-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "OLA CAB 4416",
+    "amount": 2003.01,
+    "category": "Travel",
+    "date": "2025-12-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BOOKMYSHOW 4065",
+    "amount": 4127.6,
+    "category": "Entertainment",
+    "date": "2025-12-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "OLA CAB 1390",
+    "amount": 4686.61,
+    "category": "Travel",
+    "date": "2026-01-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "PIZZA HUT 5621",
+    "amount": 572.0,
+    "category": "Food and Dining",
+    "date": "2026-01-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BESCOM ELECTRIC 4008",
+    "amount": 3918.07,
+    "category": "Utilities",
+    "date": "2026-01-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HOTSTAR DISNEY 6440",
+    "amount": 3877.23,
+    "category": "Entertainment",
+    "date": "2026-01-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "FLIPKART PAY 5541",
+    "amount": 732.13,
+    "category": "Shopping",
+    "date": "2026-01-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HDFC BANK EMI 7722",
+    "amount": 11438.07,
+    "category": "EMI",
+    "date": "2026-01-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CLEARTRIP 6765",
+    "amount": 3653.31,
+    "category": "Travel",
+    "date": "2026-01-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BIGBASKET 3234",
+    "amount": 2583.41,
+    "category": "Groceries",
+    "date": "2026-01-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HOUSING COM RENT 2272",
+    "amount": 33097.0,
+    "category": "Rent",
+    "date": "2026-01-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLUES TOKAI 6065",
+    "amount": 4692.11,
+    "category": "Food and Dining",
+    "date": "2026-01-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "UBER EATS 9061",
+    "amount": 234.62,
+    "category": "Food and Dining",
+    "date": "2026-01-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "SBI CARD EMI 7717",
+    "amount": 13727.64,
+    "category": "EMI",
+    "date": "2026-01-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HDFC BANK EMI 2369",
+    "amount": 12063.61,
+    "category": "EMI",
+    "date": "2026-01-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BOOKMYSHOW 6090",
+    "amount": 4505.9,
+    "category": "Entertainment",
+    "date": "2026-01-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "YOUTUBE PREMIUM 1156",
+    "amount": 4329.38,
+    "category": "Entertainment",
+    "date": "2026-01-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BESCOM ELECTRIC 1647",
+    "amount": 980.35,
+    "category": "Utilities",
+    "date": "2026-01-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CLEARTRIP 2101",
+    "amount": 2497.35,
+    "category": "Travel",
+    "date": "2026-01-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MAKEMYTRIP 6771",
+    "amount": 2039.36,
+    "category": "Travel",
+    "date": "2026-01-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CRED RENT 1461",
+    "amount": 41596.56,
+    "category": "Rent",
+    "date": "2026-01-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BAJAJ FINSERV 9227",
+    "amount": 13378.02,
+    "category": "EMI",
+    "date": "2026-01-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 5496",
+    "amount": 38173.68,
+    "category": "Rent",
+    "date": "2026-01-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 6496",
+    "amount": 47884.15,
+    "category": "Rent",
+    "date": "2026-01-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "INDIGO AIR 8521",
+    "amount": 1492.78,
+    "category": "Travel",
+    "date": "2026-02-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "UBER EATS 9917",
+    "amount": 2380.42,
+    "category": "Food and Dining",
+    "date": "2026-02-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "AIRTEL BILL 4999",
+    "amount": 1523.76,
+    "category": "Utilities",
+    "date": "2026-02-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 6391",
+    "amount": 40409.62,
+    "category": "Rent",
+    "date": "2026-02-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "OLA CAB 2280",
+    "amount": 1624.01,
+    "category": "Travel",
+    "date": "2026-02-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "RELIANCE FRESH 6965",
+    "amount": 2234.55,
+    "category": "Groceries",
+    "date": "2026-02-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "SBI CARD EMI 5258",
+    "amount": 5933.73,
+    "category": "EMI",
+    "date": "2026-02-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "RELIANCE FRESH 8055",
+    "amount": 1628.82,
+    "category": "Groceries",
+    "date": "2026-02-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BAJAJ FINSERV 7023",
+    "amount": 13836.61,
+    "category": "EMI",
+    "date": "2026-02-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BESCOM ELECTRIC 7262",
+    "amount": 3757.23,
+    "category": "Utilities",
+    "date": "2026-02-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "FLIPKART PAY 2867",
+    "amount": 2487.12,
+    "category": "Shopping",
+    "date": "2026-02-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "STARBUCKS COFFEE 7199",
+    "amount": 434.33,
+    "category": "Food and Dining",
+    "date": "2026-02-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BIGBASKET 4535",
+    "amount": 565.75,
+    "category": "Groceries",
+    "date": "2026-02-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "DOMINOS PIZZA 2623",
+    "amount": 4506.45,
+    "category": "Food and Dining",
+    "date": "2026-02-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLINKIT 1383",
+    "amount": 4206.34,
+    "category": "Groceries",
+    "date": "2026-02-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "AIRTEL BILL 2500",
+    "amount": 3777.57,
+    "category": "Utilities",
+    "date": "2026-02-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "OLA CAB 1705",
+    "amount": 2399.19,
+    "category": "Travel",
+    "date": "2026-02-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BAJAJ FINSERV 9772",
+    "amount": 13063.81,
+    "category": "EMI",
+    "date": "2026-02-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLUES TOKAI 4956",
+    "amount": 1754.49,
+    "category": "Food and Dining",
+    "date": "2026-02-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "LENSKART 6340",
+    "amount": 1083.69,
+    "category": "Shopping",
+    "date": "2026-02-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "ZEPTO 5585",
+    "amount": 3006.1,
+    "category": "Groceries",
+    "date": "2026-02-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "AMZN MKTP IN 4180",
+    "amount": 4919.91,
+    "category": "Shopping",
+    "date": "2026-02-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NYKAA RETAIL 3206",
+    "amount": 4358.21,
+    "category": "Shopping",
+    "date": "2026-02-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HDFC BANK EMI 9283",
+    "amount": 9364.05,
+    "category": "EMI",
+    "date": "2026-02-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BAJAJ FINSERV 4984",
+    "amount": 7523.86,
+    "category": "EMI",
+    "date": "2026-02-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "AMZN MKTP IN 9969",
+    "amount": 3085.09,
+    "category": "Shopping",
+    "date": "2026-02-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HOUSING COM RENT 9724",
+    "amount": 42196.91,
+    "category": "Rent",
+    "date": "2026-03-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "ICICI LOAN 1642",
+    "amount": 7576.67,
+    "category": "EMI",
+    "date": "2026-03-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "PIZZA HUT 8770",
+    "amount": 3831.86,
+    "category": "Food and Dining",
+    "date": "2026-03-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BAJAJ FINSERV 9796",
+    "amount": 8528.81,
+    "category": "EMI",
+    "date": "2026-03-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BIGBASKET 3609",
+    "amount": 1795.49,
+    "category": "Groceries",
+    "date": "2026-03-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "ADANI GAS 2902",
+    "amount": 724.05,
+    "category": "Utilities",
+    "date": "2026-03-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BESCOM ELECTRIC 4068",
+    "amount": 4242.72,
+    "category": "Utilities",
+    "date": "2026-03-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLINKIT 8718",
+    "amount": 548.72,
+    "category": "Groceries",
+    "date": "2026-03-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MC DONALDS 2159",
+    "amount": 255.7,
+    "category": "Food and Dining",
+    "date": "2026-03-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "AJIO FASHION 6170",
+    "amount": 1294.08,
+    "category": "Shopping",
+    "date": "2026-03-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "AIRTEL BILL 8755",
+    "amount": 2251.86,
+    "category": "Utilities",
+    "date": "2026-03-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "MC DONALDS 1785",
+    "amount": 3497.74,
+    "category": "Food and Dining",
+    "date": "2026-03-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 2707",
+    "amount": 39230.49,
+    "category": "Rent",
+    "date": "2026-03-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLINKIT 7125",
+    "amount": 794.76,
+    "category": "Groceries",
+    "date": "2026-03-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "BLINKIT 2169",
+    "amount": 2958.8,
+    "category": "Groceries",
+    "date": "2026-03-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HOTSTAR DISNEY 9872",
+    "amount": 1934.04,
+    "category": "Entertainment",
+    "date": "2026-03-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HDFC BANK EMI 3375",
+    "amount": 12323.3,
+    "category": "EMI",
+    "date": "2026-03-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "ZEPTO 4005",
+    "amount": 4321.76,
+    "category": "Groceries",
+    "date": "2026-03-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "FLIPKART PAY 6244",
+    "amount": 2070.29,
+    "category": "Shopping",
+    "date": "2026-03-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "IRCTC 6729",
+    "amount": 4372.37,
+    "category": "Travel",
+    "date": "2026-03-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "HOUSING COM RENT 9002",
+    "amount": 37101.92,
+    "category": "Rent",
+    "date": "2026-03-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "CLEARTRIP 4269",
+    "amount": 3515.44,
+    "category": "Travel",
+    "date": "2026-03-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "YOUTUBE PREMIUM 9384",
+    "amount": 797.18,
+    "category": "Entertainment",
+    "date": "2026-03-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "SWIGGY ORDER 8033",
+    "amount": 1554.41,
+    "category": "Food and Dining",
+    "date": "2026-04-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 9440",
+    "amount": 36909.09,
+    "category": "Rent",
+    "date": "2026-04-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "NOBROKER RENT 5008",
+    "amount": 40673.99,
+    "category": "Rent",
+    "date": "2026-04-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_1",
+    "merchant": "SWIGGY ORDER 8504",
+    "amount": 3673.48,
+    "category": "Food and Dining",
+    "date": "2026-04-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ADANI GAS 4797",
+    "amount": 1155.97,
+    "category": "Utilities",
+    "date": "2025-09-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BAJAJ FINSERV 1908",
+    "amount": 12150.29,
+    "category": "EMI",
+    "date": "2025-09-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BIGBASKET 7466",
+    "amount": 350.39,
+    "category": "Groceries",
+    "date": "2025-09-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BIGBASKET 2922",
+    "amount": 3105.89,
+    "category": "Groceries",
+    "date": "2025-09-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "DECATHLON SPORT 3118",
+    "amount": 3552.85,
+    "category": "Shopping",
+    "date": "2025-09-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "MAKEMYTRIP 9843",
+    "amount": 2203.73,
+    "category": "Travel",
+    "date": "2025-09-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BOOKMYSHOW 5843",
+    "amount": 4119.26,
+    "category": "Entertainment",
+    "date": "2025-09-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AJIO FASHION 4678",
+    "amount": 2729.87,
+    "category": "Shopping",
+    "date": "2025-09-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ICICI LOAN 3250",
+    "amount": 12601.51,
+    "category": "EMI",
+    "date": "2025-09-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "RELIANCE FRESH 2991",
+    "amount": 912.46,
+    "category": "Groceries",
+    "date": "2025-09-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BLINKIT 6207",
+    "amount": 558.93,
+    "category": "Groceries",
+    "date": "2025-09-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "INDIGO AIR 2210",
+    "amount": 2591.52,
+    "category": "Travel",
+    "date": "2025-09-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "PIZZA HUT 6913",
+    "amount": 2220.47,
+    "category": "Food and Dining",
+    "date": "2025-09-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NYKAA RETAIL 6321",
+    "amount": 1622.67,
+    "category": "Shopping",
+    "date": "2025-09-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "PIZZA HUT 4453",
+    "amount": 557.83,
+    "category": "Food and Dining",
+    "date": "2025-09-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HOUSING COM RENT 2333",
+    "amount": 20085.28,
+    "category": "Rent",
+    "date": "2025-10-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "KFC RESTAURANT 2762",
+    "amount": 2426.83,
+    "category": "Food and Dining",
+    "date": "2025-10-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HDFC BANK EMI 6834",
+    "amount": 12880.29,
+    "category": "EMI",
+    "date": "2025-10-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ZEPTO 4326",
+    "amount": 3008.31,
+    "category": "Groceries",
+    "date": "2025-10-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "REDBUS 5102",
+    "amount": 4265.93,
+    "category": "Travel",
+    "date": "2025-10-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "MAKEMYTRIP 7103",
+    "amount": 1873.11,
+    "category": "Travel",
+    "date": "2025-10-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SPOTIFY INDIA 7107",
+    "amount": 1178.23,
+    "category": "Entertainment",
+    "date": "2025-10-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NETFLIX COM 1632",
+    "amount": 3651.07,
+    "category": "Entertainment",
+    "date": "2025-10-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AIRTEL BILL 5981",
+    "amount": 622.08,
+    "category": "Utilities",
+    "date": "2025-10-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NETFLIX COM 8872",
+    "amount": 3869.59,
+    "category": "Entertainment",
+    "date": "2025-10-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "UBER INDIA 6786",
+    "amount": 2847.04,
+    "category": "Travel",
+    "date": "2025-10-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SWIGGY ORDER 1845",
+    "amount": 3268.35,
+    "category": "Food and Dining",
+    "date": "2025-10-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "RELIANCE FRESH 9520",
+    "amount": 3071.14,
+    "category": "Groceries",
+    "date": "2025-10-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "LENSKART 7241",
+    "amount": 2524.69,
+    "category": "Shopping",
+    "date": "2025-10-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AJIO FASHION 7843",
+    "amount": 3902.35,
+    "category": "Shopping",
+    "date": "2025-10-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BOOKMYSHOW 6644",
+    "amount": 3111.88,
+    "category": "Entertainment",
+    "date": "2025-10-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "TATA PLAY 1507",
+    "amount": 826.62,
+    "category": "Utilities",
+    "date": "2025-10-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "MAKEMYTRIP 7587",
+    "amount": 1913.36,
+    "category": "Travel",
+    "date": "2025-10-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "RELIANCE DIGITAL 9458",
+    "amount": 1438.79,
+    "category": "Shopping",
+    "date": "2025-10-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NOBROKER RENT 1387",
+    "amount": 48681.83,
+    "category": "Rent",
+    "date": "2025-10-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "FLIPKART PAY 3464",
+    "amount": 4894.75,
+    "category": "Shopping",
+    "date": "2025-10-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SWIGGY ORDER 4464",
+    "amount": 4339.85,
+    "category": "Food and Dining",
+    "date": "2025-10-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "DOMINOS PIZZA 9564",
+    "amount": 2111.02,
+    "category": "Food and Dining",
+    "date": "2025-10-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NOBROKER RENT 2568",
+    "amount": 39661.88,
+    "category": "Rent",
+    "date": "2025-10-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "CLEARTRIP 4204",
+    "amount": 3254.19,
+    "category": "Travel",
+    "date": "2025-10-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AJIO FASHION 1314",
+    "amount": 1914.22,
+    "category": "Shopping",
+    "date": "2025-10-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AIRTEL BILL 4849",
+    "amount": 2524.47,
+    "category": "Utilities",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SPOTIFY INDIA 4604",
+    "amount": 4967.33,
+    "category": "Entertainment",
+    "date": "2025-11-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NETFLIX COM 1327",
+    "amount": 4509.98,
+    "category": "Entertainment",
+    "date": "2025-11-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "RELIANCE DIGITAL 9833",
+    "amount": 4305.41,
+    "category": "Shopping",
+    "date": "2025-11-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ADANI GAS 8924",
+    "amount": 1077.5,
+    "category": "Utilities",
+    "date": "2025-11-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "KFC RESTAURANT 5321",
+    "amount": 4087.96,
+    "category": "Food and Dining",
+    "date": "2025-11-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AIRTEL BILL 4171",
+    "amount": 3525.77,
+    "category": "Utilities",
+    "date": "2025-11-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BAJAJ FINSERV 3432",
+    "amount": 9839.07,
+    "category": "EMI",
+    "date": "2025-11-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "MC DONALDS 7069",
+    "amount": 3763.68,
+    "category": "Food and Dining",
+    "date": "2025-11-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "LENSKART 6106",
+    "amount": 2358.18,
+    "category": "Shopping",
+    "date": "2025-11-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "KFC RESTAURANT 1636",
+    "amount": 1034.71,
+    "category": "Food and Dining",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BOOKMYSHOW 1741",
+    "amount": 1554.19,
+    "category": "Entertainment",
+    "date": "2025-11-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SBI CARD EMI 8373",
+    "amount": 10249.59,
+    "category": "EMI",
+    "date": "2025-11-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "KFC RESTAURANT 8795",
+    "amount": 2141.28,
+    "category": "Food and Dining",
+    "date": "2025-11-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "KFC RESTAURANT 7297",
+    "amount": 3685.54,
+    "category": "Food and Dining",
+    "date": "2025-11-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "TATA PLAY 6067",
+    "amount": 619.03,
+    "category": "Utilities",
+    "date": "2025-11-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NYKAA RETAIL 5977",
+    "amount": 1661.25,
+    "category": "Shopping",
+    "date": "2025-11-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "MAKEMYTRIP 6908",
+    "amount": 3599.14,
+    "category": "Travel",
+    "date": "2025-11-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BAJAJ FINSERV 9060",
+    "amount": 8890.47,
+    "category": "EMI",
+    "date": "2025-11-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "IRCTC 2532",
+    "amount": 1848.03,
+    "category": "Travel",
+    "date": "2025-11-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SWIGGY ORDER 4910",
+    "amount": 4040.65,
+    "category": "Food and Dining",
+    "date": "2025-11-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AIRTEL BILL 9976",
+    "amount": 600.86,
+    "category": "Utilities",
+    "date": "2025-11-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BLINKIT 4583",
+    "amount": 517.22,
+    "category": "Groceries",
+    "date": "2025-11-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SBI CARD EMI 4619",
+    "amount": 7706.25,
+    "category": "EMI",
+    "date": "2025-11-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "UBER EATS 2863",
+    "amount": 2257.24,
+    "category": "Food and Dining",
+    "date": "2025-11-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "UBER EATS 1432",
+    "amount": 3418.89,
+    "category": "Food and Dining",
+    "date": "2025-11-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ICICI LOAN 1123",
+    "amount": 11708.0,
+    "category": "EMI",
+    "date": "2025-11-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NETFLIX COM 2424",
+    "amount": 1545.13,
+    "category": "Entertainment",
+    "date": "2025-12-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "KFC RESTAURANT 2593",
+    "amount": 1579.65,
+    "category": "Food and Dining",
+    "date": "2025-12-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NETFLIX COM 7265",
+    "amount": 2208.77,
+    "category": "Entertainment",
+    "date": "2025-12-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SPOTIFY INDIA 2541",
+    "amount": 1833.76,
+    "category": "Entertainment",
+    "date": "2025-12-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BOOKMYSHOW 5908",
+    "amount": 3584.74,
+    "category": "Entertainment",
+    "date": "2025-12-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BAJAJ FINSERV 3516",
+    "amount": 11039.07,
+    "category": "EMI",
+    "date": "2025-12-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ADANI GAS 1284",
+    "amount": 2313.98,
+    "category": "Utilities",
+    "date": "2025-12-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AIRTEL BILL 7104",
+    "amount": 2558.68,
+    "category": "Utilities",
+    "date": "2025-12-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ZEPTO 6461",
+    "amount": 3287.68,
+    "category": "Groceries",
+    "date": "2025-12-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AIRTEL BILL 4043",
+    "amount": 4121.92,
+    "category": "Utilities",
+    "date": "2025-12-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BLINKIT 1088",
+    "amount": 4057.95,
+    "category": "Groceries",
+    "date": "2025-12-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "TATA PLAY 6332",
+    "amount": 1470.42,
+    "category": "Utilities",
+    "date": "2025-12-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NYKAA RETAIL 4944",
+    "amount": 2226.31,
+    "category": "Shopping",
+    "date": "2025-12-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "CLEARTRIP 3693",
+    "amount": 2230.3,
+    "category": "Travel",
+    "date": "2025-12-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BLUES TOKAI 2370",
+    "amount": 4140.0,
+    "category": "Food and Dining",
+    "date": "2025-12-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BESCOM ELECTRIC 7748",
+    "amount": 4548.1,
+    "category": "Utilities",
+    "date": "2025-12-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BIGBASKET 7236",
+    "amount": 921.58,
+    "category": "Groceries",
+    "date": "2025-12-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "LENSKART 1660",
+    "amount": 4852.41,
+    "category": "Shopping",
+    "date": "2025-12-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "YOUTUBE PREMIUM 5574",
+    "amount": 4341.64,
+    "category": "Entertainment",
+    "date": "2025-12-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BOOKMYSHOW 7810",
+    "amount": 1195.09,
+    "category": "Entertainment",
+    "date": "2025-12-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BLINKIT 4789",
+    "amount": 4157.71,
+    "category": "Groceries",
+    "date": "2025-12-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SBI CARD EMI 8729",
+    "amount": 7087.03,
+    "category": "EMI",
+    "date": "2025-12-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "PIZZA HUT 3357",
+    "amount": 1985.95,
+    "category": "Food and Dining",
+    "date": "2025-12-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NOBROKER RENT 3154",
+    "amount": 49667.26,
+    "category": "Rent",
+    "date": "2025-12-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AIRTEL BILL 8823",
+    "amount": 3968.26,
+    "category": "Utilities",
+    "date": "2026-01-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NETFLIX COM 2469",
+    "amount": 1713.58,
+    "category": "Entertainment",
+    "date": "2026-01-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "OLA CAB 9338",
+    "amount": 3748.63,
+    "category": "Travel",
+    "date": "2026-01-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HOUSING COM RENT 3654",
+    "amount": 45071.04,
+    "category": "Rent",
+    "date": "2026-01-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "KFC RESTAURANT 9312",
+    "amount": 1489.25,
+    "category": "Food and Dining",
+    "date": "2026-01-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "CLEARTRIP 4024",
+    "amount": 4356.83,
+    "category": "Travel",
+    "date": "2026-01-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ICICI LOAN 3236",
+    "amount": 14867.57,
+    "category": "EMI",
+    "date": "2026-01-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "CLEARTRIP 3082",
+    "amount": 1663.77,
+    "category": "Travel",
+    "date": "2026-01-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "UBER EATS 3744",
+    "amount": 1445.44,
+    "category": "Food and Dining",
+    "date": "2026-01-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "IRCTC 8503",
+    "amount": 2210.4,
+    "category": "Travel",
+    "date": "2026-01-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HOUSING COM RENT 1965",
+    "amount": 43098.9,
+    "category": "Rent",
+    "date": "2026-01-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "CRED RENT 2175",
+    "amount": 34282.41,
+    "category": "Rent",
+    "date": "2026-01-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HOTSTAR DISNEY 3081",
+    "amount": 4179.21,
+    "category": "Entertainment",
+    "date": "2026-01-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HOUSING COM RENT 2421",
+    "amount": 41868.56,
+    "category": "Rent",
+    "date": "2026-01-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "INDIGO AIR 9157",
+    "amount": 299.46,
+    "category": "Travel",
+    "date": "2026-01-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BAJAJ FINSERV 1996",
+    "amount": 12294.26,
+    "category": "EMI",
+    "date": "2026-01-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "OLA CAB 6943",
+    "amount": 2755.02,
+    "category": "Travel",
+    "date": "2026-01-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HOUSING COM RENT 6651",
+    "amount": 30314.71,
+    "category": "Rent",
+    "date": "2026-01-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "CLEARTRIP 6762",
+    "amount": 3075.02,
+    "category": "Travel",
+    "date": "2026-01-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "OLA CAB 8776",
+    "amount": 3392.33,
+    "category": "Travel",
+    "date": "2026-01-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "DUNZO 7190",
+    "amount": 1019.52,
+    "category": "Groceries",
+    "date": "2026-01-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "LENSKART 2358",
+    "amount": 1360.98,
+    "category": "Shopping",
+    "date": "2026-01-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "CLEARTRIP 5018",
+    "amount": 3775.19,
+    "category": "Travel",
+    "date": "2026-02-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SPOTIFY INDIA 6333",
+    "amount": 2858.2,
+    "category": "Entertainment",
+    "date": "2026-02-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ADANI GAS 7652",
+    "amount": 2485.7,
+    "category": "Utilities",
+    "date": "2026-02-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HDFC BANK EMI 9457",
+    "amount": 10205.05,
+    "category": "EMI",
+    "date": "2026-02-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BIGBASKET 7469",
+    "amount": 2193.0,
+    "category": "Groceries",
+    "date": "2026-02-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ZEPTO 8329",
+    "amount": 4399.76,
+    "category": "Groceries",
+    "date": "2026-02-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "FLIPKART PAY 7245",
+    "amount": 2129.93,
+    "category": "Shopping",
+    "date": "2026-02-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "STARBUCKS COFFEE 5602",
+    "amount": 4986.22,
+    "category": "Food and Dining",
+    "date": "2026-02-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "FLIPKART PAY 4673",
+    "amount": 1308.84,
+    "category": "Shopping",
+    "date": "2026-02-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BIGBASKET 6622",
+    "amount": 3683.37,
+    "category": "Groceries",
+    "date": "2026-02-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NOBROKER RENT 9108",
+    "amount": 41562.25,
+    "category": "Rent",
+    "date": "2026-02-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NYKAA RETAIL 2829",
+    "amount": 4554.38,
+    "category": "Shopping",
+    "date": "2026-02-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "DUNZO 3566",
+    "amount": 2647.07,
+    "category": "Groceries",
+    "date": "2026-02-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NOBROKER RENT 6259",
+    "amount": 46172.95,
+    "category": "Rent",
+    "date": "2026-02-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "LENSKART 1763",
+    "amount": 4892.28,
+    "category": "Shopping",
+    "date": "2026-02-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "CRED RENT 6458",
+    "amount": 44490.11,
+    "category": "Rent",
+    "date": "2026-02-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SPOTIFY INDIA 3273",
+    "amount": 3265.98,
+    "category": "Entertainment",
+    "date": "2026-02-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ICICI LOAN 8561",
+    "amount": 14943.09,
+    "category": "EMI",
+    "date": "2026-02-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "MC DONALDS 6302",
+    "amount": 4647.38,
+    "category": "Food and Dining",
+    "date": "2026-02-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "REDBUS 7796",
+    "amount": 1931.48,
+    "category": "Travel",
+    "date": "2026-03-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "FLIPKART PAY 4758",
+    "amount": 439.65,
+    "category": "Shopping",
+    "date": "2026-03-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SBI CARD EMI 3263",
+    "amount": 12980.86,
+    "category": "EMI",
+    "date": "2026-03-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ADANI GAS 8871",
+    "amount": 2476.66,
+    "category": "Utilities",
+    "date": "2026-03-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "MYNTRA COM 6648",
+    "amount": 2171.94,
+    "category": "Shopping",
+    "date": "2026-03-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "STARBUCKS COFFEE 2536",
+    "amount": 805.67,
+    "category": "Food and Dining",
+    "date": "2026-03-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "BLINKIT 9810",
+    "amount": 4285.28,
+    "category": "Groceries",
+    "date": "2026-03-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "NETFLIX COM 7683",
+    "amount": 4375.36,
+    "category": "Entertainment",
+    "date": "2026-03-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "AIRTEL BILL 6689",
+    "amount": 3448.05,
+    "category": "Utilities",
+    "date": "2026-03-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "PIZZA HUT 1880",
+    "amount": 4421.48,
+    "category": "Food and Dining",
+    "date": "2026-03-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HOUSING COM RENT 6028",
+    "amount": 28703.32,
+    "category": "Rent",
+    "date": "2026-03-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "DUNZO 8945",
+    "amount": 2324.63,
+    "category": "Groceries",
+    "date": "2026-03-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HOUSING COM RENT 6485",
+    "amount": 20317.41,
+    "category": "Rent",
+    "date": "2026-03-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "SBI CARD EMI 6051",
+    "amount": 14676.74,
+    "category": "EMI",
+    "date": "2026-03-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ADANI GAS 9938",
+    "amount": 4589.02,
+    "category": "Utilities",
+    "date": "2026-03-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ZOMATO FOOD 3231",
+    "amount": 257.52,
+    "category": "Food and Dining",
+    "date": "2026-03-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "ADANI GAS 7347",
+    "amount": 3439.78,
+    "category": "Utilities",
+    "date": "2026-03-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "REDBUS 4286",
+    "amount": 679.61,
+    "category": "Travel",
+    "date": "2026-03-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "HOUSING COM RENT 5818",
+    "amount": 27376.31,
+    "category": "Rent",
+    "date": "2026-03-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_2",
+    "merchant": "IRCTC 2631",
+    "amount": 4676.9,
+    "category": "Travel",
+    "date": "2026-03-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "OLA CAB 4855",
+    "amount": 1067.67,
+    "category": "Travel",
+    "date": "2025-09-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DUNZO 2158",
+    "amount": 1804.99,
+    "category": "Groceries",
+    "date": "2025-09-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ZEPTO 6503",
+    "amount": 3441.58,
+    "category": "Groceries",
+    "date": "2025-09-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "SBI CARD EMI 5316",
+    "amount": 12208.01,
+    "category": "EMI",
+    "date": "2025-09-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "LENSKART 8992",
+    "amount": 4477.91,
+    "category": "Shopping",
+    "date": "2025-09-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AIRTEL BILL 5034",
+    "amount": 110.28,
+    "category": "Utilities",
+    "date": "2025-09-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 7900",
+    "amount": 20671.8,
+    "category": "Rent",
+    "date": "2025-09-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ADANI GAS 8079",
+    "amount": 2266.17,
+    "category": "Utilities",
+    "date": "2025-09-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DUNZO 9411",
+    "amount": 2857.6,
+    "category": "Groceries",
+    "date": "2025-09-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "TATA PLAY 6754",
+    "amount": 1312.79,
+    "category": "Utilities",
+    "date": "2025-09-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 2634",
+    "amount": 37510.35,
+    "category": "Rent",
+    "date": "2025-10-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 4539",
+    "amount": 28532.86,
+    "category": "Rent",
+    "date": "2025-10-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ICICI LOAN 7930",
+    "amount": 6485.67,
+    "category": "EMI",
+    "date": "2025-10-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "KFC RESTAURANT 1763",
+    "amount": 2096.41,
+    "category": "Food and Dining",
+    "date": "2025-10-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "IRCTC 1143",
+    "amount": 2548.74,
+    "category": "Travel",
+    "date": "2025-10-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ADANI GAS 8687",
+    "amount": 4024.89,
+    "category": "Utilities",
+    "date": "2025-10-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DECATHLON SPORT 7429",
+    "amount": 4695.09,
+    "category": "Shopping",
+    "date": "2025-10-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BIGBASKET 6503",
+    "amount": 2862.66,
+    "category": "Groceries",
+    "date": "2025-10-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DOMINOS PIZZA 8165",
+    "amount": 193.87,
+    "category": "Food and Dining",
+    "date": "2025-10-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NOBROKER RENT 2176",
+    "amount": 22710.96,
+    "category": "Rent",
+    "date": "2025-10-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "RELIANCE FRESH 2019",
+    "amount": 1489.17,
+    "category": "Groceries",
+    "date": "2025-10-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NOBROKER RENT 7348",
+    "amount": 27368.92,
+    "category": "Rent",
+    "date": "2025-10-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AJIO FASHION 2164",
+    "amount": 4678.58,
+    "category": "Shopping",
+    "date": "2025-10-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DOMINOS PIZZA 3678",
+    "amount": 3753.3,
+    "category": "Food and Dining",
+    "date": "2025-10-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BIGBASKET 4012",
+    "amount": 851.43,
+    "category": "Groceries",
+    "date": "2025-10-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOTSTAR DISNEY 9455",
+    "amount": 2591.14,
+    "category": "Entertainment",
+    "date": "2025-10-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AIRTEL BILL 1716",
+    "amount": 509.17,
+    "category": "Utilities",
+    "date": "2025-10-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ICICI LOAN 9190",
+    "amount": 9003.17,
+    "category": "EMI",
+    "date": "2025-10-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DUNZO 9996",
+    "amount": 2136.95,
+    "category": "Groceries",
+    "date": "2025-10-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BOOKMYSHOW 2668",
+    "amount": 2917.34,
+    "category": "Entertainment",
+    "date": "2025-10-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "JIO RECHARGE 8966",
+    "amount": 3695.99,
+    "category": "Utilities",
+    "date": "2025-10-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ADANI GAS 2167",
+    "amount": 3047.42,
+    "category": "Utilities",
+    "date": "2025-10-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "UBER INDIA 9411",
+    "amount": 3706.98,
+    "category": "Travel",
+    "date": "2025-10-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DECATHLON SPORT 1760",
+    "amount": 1958.18,
+    "category": "Shopping",
+    "date": "2025-10-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NOBROKER RENT 6368",
+    "amount": 25007.74,
+    "category": "Rent",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "TATA PLAY 9635",
+    "amount": 2667.17,
+    "category": "Utilities",
+    "date": "2025-10-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NETFLIX COM 7830",
+    "amount": 3830.32,
+    "category": "Entertainment",
+    "date": "2025-10-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 8505",
+    "amount": 32306.91,
+    "category": "Rent",
+    "date": "2025-10-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DUNZO 5642",
+    "amount": 4888.92,
+    "category": "Groceries",
+    "date": "2025-11-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BLUES TOKAI 2034",
+    "amount": 4001.93,
+    "category": "Food and Dining",
+    "date": "2025-11-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "SBI CARD EMI 3102",
+    "amount": 14657.64,
+    "category": "EMI",
+    "date": "2025-11-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ZEPTO 6702",
+    "amount": 2808.75,
+    "category": "Groceries",
+    "date": "2025-11-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "RELIANCE FRESH 3246",
+    "amount": 2106.98,
+    "category": "Groceries",
+    "date": "2025-11-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "PIZZA HUT 8097",
+    "amount": 3917.57,
+    "category": "Food and Dining",
+    "date": "2025-11-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "MC DONALDS 8516",
+    "amount": 3611.08,
+    "category": "Food and Dining",
+    "date": "2025-11-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "SPOTIFY INDIA 5127",
+    "amount": 1707.0,
+    "category": "Entertainment",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 6457",
+    "amount": 46561.49,
+    "category": "Rent",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "CLEARTRIP 3563",
+    "amount": 609.36,
+    "category": "Travel",
+    "date": "2025-11-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "UBER INDIA 5362",
+    "amount": 4471.47,
+    "category": "Travel",
+    "date": "2025-11-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DECATHLON SPORT 2639",
+    "amount": 3935.73,
+    "category": "Shopping",
+    "date": "2025-11-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOTSTAR DISNEY 8931",
+    "amount": 1703.94,
+    "category": "Entertainment",
+    "date": "2025-11-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ADANI GAS 9160",
+    "amount": 2869.17,
+    "category": "Utilities",
+    "date": "2025-11-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "CRED RENT 6128",
+    "amount": 48175.73,
+    "category": "Rent",
+    "date": "2025-11-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BESCOM ELECTRIC 5743",
+    "amount": 3318.03,
+    "category": "Utilities",
+    "date": "2025-11-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "TATA PLAY 8321",
+    "amount": 2675.05,
+    "category": "Utilities",
+    "date": "2025-11-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 2185",
+    "amount": 47390.51,
+    "category": "Rent",
+    "date": "2025-11-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AIRTEL BILL 4556",
+    "amount": 4769.08,
+    "category": "Utilities",
+    "date": "2025-11-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "SPOTIFY INDIA 5189",
+    "amount": 4663.02,
+    "category": "Entertainment",
+    "date": "2025-11-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "STARBUCKS COFFEE 6699",
+    "amount": 340.26,
+    "category": "Food and Dining",
+    "date": "2025-11-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "TATA PLAY 3771",
+    "amount": 3005.46,
+    "category": "Utilities",
+    "date": "2025-11-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HDFC BANK EMI 5388",
+    "amount": 14463.62,
+    "category": "EMI",
+    "date": "2025-11-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "YOUTUBE PREMIUM 9019",
+    "amount": 2994.36,
+    "category": "Entertainment",
+    "date": "2025-11-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HDFC BANK EMI 5046",
+    "amount": 8903.8,
+    "category": "EMI",
+    "date": "2025-11-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BAJAJ FINSERV 2710",
+    "amount": 6500.28,
+    "category": "EMI",
+    "date": "2025-12-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 1546",
+    "amount": 46285.71,
+    "category": "Rent",
+    "date": "2025-12-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "REDBUS 5881",
+    "amount": 1273.95,
+    "category": "Travel",
+    "date": "2025-12-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "INDIGO AIR 8820",
+    "amount": 3217.25,
+    "category": "Travel",
+    "date": "2025-12-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 3841",
+    "amount": 22186.48,
+    "category": "Rent",
+    "date": "2025-12-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BLINKIT 2284",
+    "amount": 3752.45,
+    "category": "Groceries",
+    "date": "2025-12-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "SBI CARD EMI 4671",
+    "amount": 12362.69,
+    "category": "EMI",
+    "date": "2025-12-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "CLEARTRIP 6969",
+    "amount": 1040.96,
+    "category": "Travel",
+    "date": "2025-12-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "SBI CARD EMI 4352",
+    "amount": 9992.1,
+    "category": "EMI",
+    "date": "2025-12-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ZEPTO 2541",
+    "amount": 958.07,
+    "category": "Groceries",
+    "date": "2025-12-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "YOUTUBE PREMIUM 4927",
+    "amount": 2987.32,
+    "category": "Entertainment",
+    "date": "2025-12-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BESCOM ELECTRIC 2320",
+    "amount": 2711.01,
+    "category": "Utilities",
+    "date": "2025-12-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AIRTEL BILL 4993",
+    "amount": 1575.51,
+    "category": "Utilities",
+    "date": "2025-12-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "RELIANCE FRESH 1101",
+    "amount": 1222.83,
+    "category": "Groceries",
+    "date": "2025-12-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "UBER INDIA 2898",
+    "amount": 4701.03,
+    "category": "Travel",
+    "date": "2025-12-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DOMINOS PIZZA 4643",
+    "amount": 4185.96,
+    "category": "Food and Dining",
+    "date": "2025-12-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NOBROKER RENT 3546",
+    "amount": 34660.92,
+    "category": "Rent",
+    "date": "2025-12-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "PVR CINEMAS 1323",
+    "amount": 2798.81,
+    "category": "Entertainment",
+    "date": "2025-12-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "FLIPKART PAY 3039",
+    "amount": 2621.97,
+    "category": "Shopping",
+    "date": "2025-12-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "KFC RESTAURANT 4626",
+    "amount": 134.01,
+    "category": "Food and Dining",
+    "date": "2025-12-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "TATA PLAY 5711",
+    "amount": 3681.01,
+    "category": "Utilities",
+    "date": "2025-12-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NYKAA RETAIL 6920",
+    "amount": 3530.72,
+    "category": "Shopping",
+    "date": "2025-12-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 2952",
+    "amount": 39475.27,
+    "category": "Rent",
+    "date": "2025-12-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ADANI GAS 6271",
+    "amount": 1029.36,
+    "category": "Utilities",
+    "date": "2026-01-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "MAKEMYTRIP 1409",
+    "amount": 2229.88,
+    "category": "Travel",
+    "date": "2026-01-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "PVR CINEMAS 1154",
+    "amount": 960.26,
+    "category": "Entertainment",
+    "date": "2026-01-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "UBER EATS 3393",
+    "amount": 4854.64,
+    "category": "Food and Dining",
+    "date": "2026-01-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "CRED RENT 6461",
+    "amount": 27253.12,
+    "category": "Rent",
+    "date": "2026-01-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "CRED RENT 7472",
+    "amount": 25110.04,
+    "category": "Rent",
+    "date": "2026-01-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "PVR CINEMAS 9297",
+    "amount": 3062.7,
+    "category": "Entertainment",
+    "date": "2026-01-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "MAKEMYTRIP 5916",
+    "amount": 3794.8,
+    "category": "Travel",
+    "date": "2026-01-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "UBER INDIA 6471",
+    "amount": 3559.2,
+    "category": "Travel",
+    "date": "2026-01-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "SWIGGY ORDER 1326",
+    "amount": 856.45,
+    "category": "Food and Dining",
+    "date": "2026-01-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AJIO FASHION 1134",
+    "amount": 1715.58,
+    "category": "Shopping",
+    "date": "2026-01-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AJIO FASHION 6277",
+    "amount": 2688.75,
+    "category": "Shopping",
+    "date": "2026-01-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ZEPTO 2460",
+    "amount": 2903.98,
+    "category": "Groceries",
+    "date": "2026-01-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "SWIGGY ORDER 1743",
+    "amount": 2472.28,
+    "category": "Food and Dining",
+    "date": "2026-01-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "CRED RENT 2029",
+    "amount": 22811.97,
+    "category": "Rent",
+    "date": "2026-01-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AJIO FASHION 2028",
+    "amount": 3471.08,
+    "category": "Shopping",
+    "date": "2026-01-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AMZN MKTP IN 9905",
+    "amount": 2783.57,
+    "category": "Shopping",
+    "date": "2026-01-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BLUES TOKAI 9200",
+    "amount": 3067.45,
+    "category": "Food and Dining",
+    "date": "2026-01-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "TATA PLAY 9452",
+    "amount": 1627.04,
+    "category": "Utilities",
+    "date": "2026-01-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "AJIO FASHION 3178",
+    "amount": 1960.94,
+    "category": "Shopping",
+    "date": "2026-01-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ZOMATO FOOD 2275",
+    "amount": 1852.2,
+    "category": "Food and Dining",
+    "date": "2026-01-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "OLA CAB 4702",
+    "amount": 1504.49,
+    "category": "Travel",
+    "date": "2026-01-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "IRCTC 3808",
+    "amount": 978.31,
+    "category": "Travel",
+    "date": "2026-01-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DECATHLON SPORT 8114",
+    "amount": 3649.64,
+    "category": "Shopping",
+    "date": "2026-01-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "KFC RESTAURANT 9340",
+    "amount": 1811.3,
+    "category": "Food and Dining",
+    "date": "2026-01-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "OLA CAB 4382",
+    "amount": 4853.2,
+    "category": "Travel",
+    "date": "2026-01-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "PIZZA HUT 1504",
+    "amount": 1514.9,
+    "category": "Food and Dining",
+    "date": "2026-01-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "SBI CARD EMI 8338",
+    "amount": 10573.12,
+    "category": "EMI",
+    "date": "2026-02-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BOOKMYSHOW 7460",
+    "amount": 3497.53,
+    "category": "Entertainment",
+    "date": "2026-02-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DUNZO 6615",
+    "amount": 131.94,
+    "category": "Groceries",
+    "date": "2026-02-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "REDBUS 7215",
+    "amount": 1234.25,
+    "category": "Travel",
+    "date": "2026-02-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "FLIPKART PAY 2236",
+    "amount": 4163.79,
+    "category": "Shopping",
+    "date": "2026-02-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "DUNZO 2342",
+    "amount": 3106.34,
+    "category": "Groceries",
+    "date": "2026-02-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOUSING COM RENT 6829",
+    "amount": 26620.98,
+    "category": "Rent",
+    "date": "2026-02-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "UBER INDIA 4421",
+    "amount": 841.52,
+    "category": "Travel",
+    "date": "2026-02-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "HOTSTAR DISNEY 4342",
+    "amount": 2962.46,
+    "category": "Entertainment",
+    "date": "2026-02-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BIGBASKET 5036",
+    "amount": 2721.94,
+    "category": "Groceries",
+    "date": "2026-02-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "UBER INDIA 5578",
+    "amount": 223.03,
+    "category": "Travel",
+    "date": "2026-02-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ZEPTO 5458",
+    "amount": 642.36,
+    "category": "Groceries",
+    "date": "2026-02-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ZEPTO 5395",
+    "amount": 2195.0,
+    "category": "Groceries",
+    "date": "2026-02-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "CRED RENT 4239",
+    "amount": 32208.32,
+    "category": "Rent",
+    "date": "2026-02-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BESCOM ELECTRIC 5512",
+    "amount": 1463.03,
+    "category": "Utilities",
+    "date": "2026-02-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "YOUTUBE PREMIUM 2823",
+    "amount": 687.7,
+    "category": "Entertainment",
+    "date": "2026-02-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NOBROKER RENT 1805",
+    "amount": 41666.56,
+    "category": "Rent",
+    "date": "2026-02-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "IRCTC 9774",
+    "amount": 2963.13,
+    "category": "Travel",
+    "date": "2026-02-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NOBROKER RENT 5854",
+    "amount": 42030.16,
+    "category": "Rent",
+    "date": "2026-02-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "CRED RENT 2879",
+    "amount": 20645.72,
+    "category": "Rent",
+    "date": "2026-02-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "YOUTUBE PREMIUM 7934",
+    "amount": 975.25,
+    "category": "Entertainment",
+    "date": "2026-02-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "BESCOM ELECTRIC 7973",
+    "amount": 267.62,
+    "category": "Utilities",
+    "date": "2026-02-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "JIO RECHARGE 4492",
+    "amount": 2455.49,
+    "category": "Utilities",
+    "date": "2026-03-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "MAKEMYTRIP 4210",
+    "amount": 3002.78,
+    "category": "Travel",
+    "date": "2026-03-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "PVR CINEMAS 1382",
+    "amount": 1514.59,
+    "category": "Entertainment",
+    "date": "2026-03-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "TATA PLAY 5161",
+    "amount": 422.46,
+    "category": "Utilities",
+    "date": "2026-03-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "ZOMATO FOOD 5912",
+    "amount": 4602.71,
+    "category": "Food and Dining",
+    "date": "2026-03-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "UBER INDIA 6039",
+    "amount": 3344.18,
+    "category": "Travel",
+    "date": "2026-03-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NETFLIX COM 9788",
+    "amount": 203.04,
+    "category": "Entertainment",
+    "date": "2026-03-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "RELIANCE DIGITAL 3804",
+    "amount": 1937.8,
+    "category": "Shopping",
+    "date": "2026-03-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "NETFLIX COM 5279",
+    "amount": 419.61,
+    "category": "Entertainment",
+    "date": "2026-03-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "MC DONALDS 4401",
+    "amount": 3788.84,
+    "category": "Food and Dining",
+    "date": "2026-03-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_3",
+    "merchant": "JIO RECHARGE 1356",
+    "amount": 4299.65,
+    "category": "Utilities",
+    "date": "2026-03-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BLUES TOKAI 8406",
+    "amount": 4563.65,
+    "category": "Food and Dining",
+    "date": "2025-09-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "TATA PLAY 8717",
+    "amount": 3643.31,
+    "category": "Utilities",
+    "date": "2025-09-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "RELIANCE DIGITAL 8928",
+    "amount": 3038.6,
+    "category": "Shopping",
+    "date": "2025-09-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "IRCTC 5025",
+    "amount": 1389.56,
+    "category": "Travel",
+    "date": "2025-09-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "UBER INDIA 1857",
+    "amount": 2768.85,
+    "category": "Travel",
+    "date": "2025-09-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NETFLIX COM 7354",
+    "amount": 4805.08,
+    "category": "Entertainment",
+    "date": "2025-09-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BIGBASKET 6736",
+    "amount": 4879.3,
+    "category": "Groceries",
+    "date": "2025-09-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BLUES TOKAI 9768",
+    "amount": 654.01,
+    "category": "Food and Dining",
+    "date": "2025-09-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOUSING COM RENT 9983",
+    "amount": 23251.64,
+    "category": "Rent",
+    "date": "2025-09-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HDFC BANK EMI 8276",
+    "amount": 12835.62,
+    "category": "EMI",
+    "date": "2025-09-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SBI CARD EMI 5044",
+    "amount": 9012.55,
+    "category": "EMI",
+    "date": "2025-10-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "AMZN MKTP IN 1857",
+    "amount": 3695.82,
+    "category": "Shopping",
+    "date": "2025-10-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "LENSKART 4139",
+    "amount": 3728.57,
+    "category": "Shopping",
+    "date": "2025-10-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ICICI LOAN 6547",
+    "amount": 11222.89,
+    "category": "EMI",
+    "date": "2025-10-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BIGBASKET 1181",
+    "amount": 3510.79,
+    "category": "Groceries",
+    "date": "2025-10-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NETFLIX COM 5905",
+    "amount": 4628.46,
+    "category": "Entertainment",
+    "date": "2025-10-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "IRCTC 8169",
+    "amount": 627.37,
+    "category": "Travel",
+    "date": "2025-10-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HDFC BANK EMI 5018",
+    "amount": 7756.42,
+    "category": "EMI",
+    "date": "2025-10-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ADANI GAS 6607",
+    "amount": 1443.98,
+    "category": "Utilities",
+    "date": "2025-10-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ICICI LOAN 3908",
+    "amount": 11854.72,
+    "category": "EMI",
+    "date": "2025-10-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "RELIANCE FRESH 6315",
+    "amount": 725.91,
+    "category": "Groceries",
+    "date": "2025-10-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "CRED RENT 5828",
+    "amount": 25780.68,
+    "category": "Rent",
+    "date": "2025-10-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 9851",
+    "amount": 44169.56,
+    "category": "Rent",
+    "date": "2025-10-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "UBER INDIA 8316",
+    "amount": 4485.67,
+    "category": "Travel",
+    "date": "2025-10-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "PIZZA HUT 9824",
+    "amount": 4178.08,
+    "category": "Food and Dining",
+    "date": "2025-10-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ZOMATO FOOD 3801",
+    "amount": 3956.43,
+    "category": "Food and Dining",
+    "date": "2025-10-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SBI CARD EMI 1600",
+    "amount": 5447.66,
+    "category": "EMI",
+    "date": "2025-10-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOUSING COM RENT 8987",
+    "amount": 39348.72,
+    "category": "Rent",
+    "date": "2025-10-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOUSING COM RENT 3420",
+    "amount": 30696.08,
+    "category": "Rent",
+    "date": "2025-10-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 1096",
+    "amount": 49049.43,
+    "category": "Rent",
+    "date": "2025-10-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "FLIPKART PAY 5086",
+    "amount": 1853.56,
+    "category": "Shopping",
+    "date": "2025-10-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BAJAJ FINSERV 6429",
+    "amount": 11889.97,
+    "category": "EMI",
+    "date": "2025-10-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HDFC BANK EMI 3133",
+    "amount": 8700.68,
+    "category": "EMI",
+    "date": "2025-10-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 4445",
+    "amount": 34414.71,
+    "category": "Rent",
+    "date": "2025-10-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "DUNZO 8990",
+    "amount": 3344.37,
+    "category": "Groceries",
+    "date": "2025-10-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOUSING COM RENT 5306",
+    "amount": 23974.24,
+    "category": "Rent",
+    "date": "2025-10-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "FLIPKART PAY 1777",
+    "amount": 3292.69,
+    "category": "Shopping",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BAJAJ FINSERV 1566",
+    "amount": 10965.82,
+    "category": "EMI",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "CLEARTRIP 8846",
+    "amount": 425.41,
+    "category": "Travel",
+    "date": "2025-10-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "STARBUCKS COFFEE 2116",
+    "amount": 3157.92,
+    "category": "Food and Dining",
+    "date": "2025-10-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "STARBUCKS COFFEE 4161",
+    "amount": 1292.16,
+    "category": "Food and Dining",
+    "date": "2025-10-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SBI CARD EMI 2976",
+    "amount": 8869.51,
+    "category": "EMI",
+    "date": "2025-11-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "CRED RENT 6733",
+    "amount": 33255.49,
+    "category": "Rent",
+    "date": "2025-11-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "DUNZO 3640",
+    "amount": 3148.64,
+    "category": "Groceries",
+    "date": "2025-11-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BOOKMYSHOW 3867",
+    "amount": 2192.09,
+    "category": "Entertainment",
+    "date": "2025-11-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "FLIPKART PAY 4066",
+    "amount": 4084.04,
+    "category": "Shopping",
+    "date": "2025-11-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "CRED RENT 6496",
+    "amount": 29859.0,
+    "category": "Rent",
+    "date": "2025-11-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOTSTAR DISNEY 4114",
+    "amount": 4138.25,
+    "category": "Entertainment",
+    "date": "2025-11-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 9514",
+    "amount": 21829.25,
+    "category": "Rent",
+    "date": "2025-11-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "KFC RESTAURANT 6791",
+    "amount": 2987.8,
+    "category": "Food and Dining",
+    "date": "2025-11-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 9095",
+    "amount": 28470.8,
+    "category": "Rent",
+    "date": "2025-11-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BAJAJ FINSERV 9593",
+    "amount": 13627.62,
+    "category": "EMI",
+    "date": "2025-11-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SBI CARD EMI 7872",
+    "amount": 5273.15,
+    "category": "EMI",
+    "date": "2025-11-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "FLIPKART PAY 3893",
+    "amount": 1463.53,
+    "category": "Shopping",
+    "date": "2025-11-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ADANI GAS 2327",
+    "amount": 1309.78,
+    "category": "Utilities",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "LENSKART 8721",
+    "amount": 1465.51,
+    "category": "Shopping",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SWIGGY ORDER 9902",
+    "amount": 2221.91,
+    "category": "Food and Dining",
+    "date": "2025-11-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BESCOM ELECTRIC 3945",
+    "amount": 1834.29,
+    "category": "Utilities",
+    "date": "2025-11-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ZOMATO FOOD 2990",
+    "amount": 138.2,
+    "category": "Food and Dining",
+    "date": "2025-11-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "AJIO FASHION 8350",
+    "amount": 1763.28,
+    "category": "Shopping",
+    "date": "2025-11-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "MYNTRA COM 5196",
+    "amount": 4346.86,
+    "category": "Shopping",
+    "date": "2025-11-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "PVR CINEMAS 6952",
+    "amount": 2267.02,
+    "category": "Entertainment",
+    "date": "2025-11-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HDFC BANK EMI 6922",
+    "amount": 11765.96,
+    "category": "EMI",
+    "date": "2025-11-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "DUNZO 4555",
+    "amount": 529.04,
+    "category": "Groceries",
+    "date": "2025-11-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "RELIANCE DIGITAL 3097",
+    "amount": 1675.5,
+    "category": "Shopping",
+    "date": "2025-11-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "STARBUCKS COFFEE 2500",
+    "amount": 521.95,
+    "category": "Food and Dining",
+    "date": "2025-11-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "AIRTEL BILL 3926",
+    "amount": 853.52,
+    "category": "Utilities",
+    "date": "2025-11-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NETFLIX COM 8564",
+    "amount": 3697.21,
+    "category": "Entertainment",
+    "date": "2025-11-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BLUES TOKAI 7131",
+    "amount": 3374.23,
+    "category": "Food and Dining",
+    "date": "2025-11-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 4907",
+    "amount": 35083.82,
+    "category": "Rent",
+    "date": "2025-11-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BESCOM ELECTRIC 2178",
+    "amount": 1936.03,
+    "category": "Utilities",
+    "date": "2025-12-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BIGBASKET 9285",
+    "amount": 4466.78,
+    "category": "Groceries",
+    "date": "2025-12-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BIGBASKET 4330",
+    "amount": 1569.39,
+    "category": "Groceries",
+    "date": "2025-12-05",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BLINKIT 7501",
+    "amount": 2674.27,
+    "category": "Groceries",
+    "date": "2025-12-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "AJIO FASHION 6637",
+    "amount": 135.15,
+    "category": "Shopping",
+    "date": "2025-12-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 1882",
+    "amount": 27705.83,
+    "category": "Rent",
+    "date": "2025-12-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ADANI GAS 3235",
+    "amount": 3966.18,
+    "category": "Utilities",
+    "date": "2025-12-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 6555",
+    "amount": 27330.93,
+    "category": "Rent",
+    "date": "2025-12-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "YOUTUBE PREMIUM 5815",
+    "amount": 2247.2,
+    "category": "Entertainment",
+    "date": "2025-12-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ZEPTO 4891",
+    "amount": 3832.14,
+    "category": "Groceries",
+    "date": "2025-12-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NYKAA RETAIL 9239",
+    "amount": 882.78,
+    "category": "Shopping",
+    "date": "2025-12-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "MYNTRA COM 1632",
+    "amount": 2726.7,
+    "category": "Shopping",
+    "date": "2025-12-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ZEPTO 7054",
+    "amount": 4589.58,
+    "category": "Groceries",
+    "date": "2025-12-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "OLA CAB 9213",
+    "amount": 865.21,
+    "category": "Travel",
+    "date": "2025-12-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SPOTIFY INDIA 7142",
+    "amount": 1732.26,
+    "category": "Entertainment",
+    "date": "2025-12-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "AMZN MKTP IN 8991",
+    "amount": 3563.87,
+    "category": "Shopping",
+    "date": "2025-12-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "UBER INDIA 4329",
+    "amount": 3424.51,
+    "category": "Travel",
+    "date": "2025-12-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BLUES TOKAI 2648",
+    "amount": 219.71,
+    "category": "Food and Dining",
+    "date": "2025-12-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BOOKMYSHOW 3318",
+    "amount": 512.93,
+    "category": "Entertainment",
+    "date": "2025-12-26",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "YOUTUBE PREMIUM 2367",
+    "amount": 3181.85,
+    "category": "Entertainment",
+    "date": "2025-12-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "OLA CAB 8682",
+    "amount": 351.42,
+    "category": "Travel",
+    "date": "2025-12-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BESCOM ELECTRIC 5744",
+    "amount": 4875.8,
+    "category": "Utilities",
+    "date": "2025-12-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "LENSKART 5806",
+    "amount": 2344.99,
+    "category": "Shopping",
+    "date": "2025-12-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BIGBASKET 9321",
+    "amount": 2794.33,
+    "category": "Groceries",
+    "date": "2026-01-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BAJAJ FINSERV 8345",
+    "amount": 9069.2,
+    "category": "EMI",
+    "date": "2026-01-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BLUES TOKAI 9408",
+    "amount": 4517.96,
+    "category": "Food and Dining",
+    "date": "2026-01-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "DOMINOS PIZZA 9891",
+    "amount": 335.81,
+    "category": "Food and Dining",
+    "date": "2026-01-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SWIGGY ORDER 7396",
+    "amount": 225.1,
+    "category": "Food and Dining",
+    "date": "2026-01-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BAJAJ FINSERV 5685",
+    "amount": 11865.92,
+    "category": "EMI",
+    "date": "2026-01-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "DECATHLON SPORT 2187",
+    "amount": 1724.76,
+    "category": "Shopping",
+    "date": "2026-01-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "RELIANCE DIGITAL 2753",
+    "amount": 1023.37,
+    "category": "Shopping",
+    "date": "2026-01-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "CRED RENT 1864",
+    "amount": 36447.76,
+    "category": "Rent",
+    "date": "2026-01-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "CLEARTRIP 2403",
+    "amount": 4543.55,
+    "category": "Travel",
+    "date": "2026-01-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOUSING COM RENT 8060",
+    "amount": 42783.3,
+    "category": "Rent",
+    "date": "2026-01-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SWIGGY ORDER 7083",
+    "amount": 4753.33,
+    "category": "Food and Dining",
+    "date": "2026-01-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOTSTAR DISNEY 1428",
+    "amount": 2022.18,
+    "category": "Entertainment",
+    "date": "2026-01-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "PVR CINEMAS 3746",
+    "amount": 2063.12,
+    "category": "Entertainment",
+    "date": "2026-01-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "MC DONALDS 6021",
+    "amount": 3547.73,
+    "category": "Food and Dining",
+    "date": "2026-01-16",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "AIRTEL BILL 7659",
+    "amount": 1179.22,
+    "category": "Utilities",
+    "date": "2026-01-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "AMZN MKTP IN 3376",
+    "amount": 3180.81,
+    "category": "Shopping",
+    "date": "2026-01-19",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "CRED RENT 5101",
+    "amount": 22052.91,
+    "category": "Rent",
+    "date": "2026-01-21",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "YOUTUBE PREMIUM 2175",
+    "amount": 206.57,
+    "category": "Entertainment",
+    "date": "2026-01-22",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BESCOM ELECTRIC 5872",
+    "amount": 3283.14,
+    "category": "Utilities",
+    "date": "2026-01-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 8001",
+    "amount": 47822.45,
+    "category": "Rent",
+    "date": "2026-01-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BAJAJ FINSERV 2528",
+    "amount": 11781.19,
+    "category": "EMI",
+    "date": "2026-01-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "RELIANCE FRESH 5428",
+    "amount": 2231.94,
+    "category": "Groceries",
+    "date": "2026-01-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "REDBUS 3606",
+    "amount": 3711.1,
+    "category": "Travel",
+    "date": "2026-01-28",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "INDIGO AIR 3388",
+    "amount": 581.7,
+    "category": "Travel",
+    "date": "2026-01-29",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "FLIPKART PAY 8653",
+    "amount": 4038.74,
+    "category": "Shopping",
+    "date": "2026-01-30",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SBI CARD EMI 5811",
+    "amount": 10554.45,
+    "category": "EMI",
+    "date": "2026-01-31",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SBI CARD EMI 8881",
+    "amount": 7901.06,
+    "category": "EMI",
+    "date": "2026-02-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NETFLIX COM 4734",
+    "amount": 4566.99,
+    "category": "Entertainment",
+    "date": "2026-02-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ZOMATO FOOD 1324",
+    "amount": 2560.85,
+    "category": "Food and Dining",
+    "date": "2026-02-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "RELIANCE FRESH 7957",
+    "amount": 401.55,
+    "category": "Groceries",
+    "date": "2026-02-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BOOKMYSHOW 7305",
+    "amount": 4431.93,
+    "category": "Entertainment",
+    "date": "2026-02-06",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ICICI LOAN 5414",
+    "amount": 14809.42,
+    "category": "EMI",
+    "date": "2026-02-10",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "DOMINOS PIZZA 4354",
+    "amount": 4650.04,
+    "category": "Food and Dining",
+    "date": "2026-02-12",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "PIZZA HUT 1413",
+    "amount": 3413.1,
+    "category": "Food and Dining",
+    "date": "2026-02-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOTSTAR DISNEY 9473",
+    "amount": 1586.74,
+    "category": "Entertainment",
+    "date": "2026-02-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ICICI LOAN 8196",
+    "amount": 6428.23,
+    "category": "EMI",
+    "date": "2026-02-14",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ADANI GAS 7176",
+    "amount": 2983.18,
+    "category": "Utilities",
+    "date": "2026-02-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "SBI CARD EMI 2872",
+    "amount": 9283.66,
+    "category": "EMI",
+    "date": "2026-02-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "MYNTRA COM 5596",
+    "amount": 1952.99,
+    "category": "Shopping",
+    "date": "2026-02-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "RELIANCE FRESH 6857",
+    "amount": 4033.23,
+    "category": "Groceries",
+    "date": "2026-02-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BAJAJ FINSERV 2199",
+    "amount": 11619.23,
+    "category": "EMI",
+    "date": "2026-02-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "MYNTRA COM 2173",
+    "amount": 3643.17,
+    "category": "Shopping",
+    "date": "2026-02-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOTSTAR DISNEY 5123",
+    "amount": 3894.17,
+    "category": "Entertainment",
+    "date": "2026-02-20",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ICICI LOAN 2876",
+    "amount": 14218.68,
+    "category": "EMI",
+    "date": "2026-02-23",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "IRCTC 2820",
+    "amount": 2151.18,
+    "category": "Travel",
+    "date": "2026-02-24",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "MYNTRA COM 9983",
+    "amount": 2105.2,
+    "category": "Shopping",
+    "date": "2026-02-25",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "AJIO FASHION 4729",
+    "amount": 4169.21,
+    "category": "Shopping",
+    "date": "2026-02-27",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BOOKMYSHOW 6704",
+    "amount": 1230.1,
+    "category": "Entertainment",
+    "date": "2026-03-01",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NYKAA RETAIL 5217",
+    "amount": 1668.87,
+    "category": "Shopping",
+    "date": "2026-03-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 2017",
+    "amount": 26649.57,
+    "category": "Rent",
+    "date": "2026-03-02",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "RELIANCE FRESH 3383",
+    "amount": 3175.99,
+    "category": "Groceries",
+    "date": "2026-03-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ZOMATO FOOD 4447",
+    "amount": 3438.38,
+    "category": "Food and Dining",
+    "date": "2026-03-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "MC DONALDS 3075",
+    "amount": 4491.82,
+    "category": "Food and Dining",
+    "date": "2026-03-03",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "OLA CAB 5564",
+    "amount": 432.22,
+    "category": "Travel",
+    "date": "2026-03-04",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BIGBASKET 7345",
+    "amount": 4969.44,
+    "category": "Groceries",
+    "date": "2026-03-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "LENSKART 9598",
+    "amount": 657.13,
+    "category": "Shopping",
+    "date": "2026-03-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "DECATHLON SPORT 2452",
+    "amount": 4604.07,
+    "category": "Shopping",
+    "date": "2026-03-07",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "ADANI GAS 4154",
+    "amount": 2656.58,
+    "category": "Utilities",
+    "date": "2026-03-08",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOUSING COM RENT 5909",
+    "amount": 21891.13,
+    "category": "Rent",
+    "date": "2026-03-09",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "MYNTRA COM 7525",
+    "amount": 3261.11,
+    "category": "Shopping",
+    "date": "2026-03-11",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HOTSTAR DISNEY 1734",
+    "amount": 4320.75,
+    "category": "Entertainment",
+    "date": "2026-03-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "INDIGO AIR 3199",
+    "amount": 3368.85,
+    "category": "Travel",
+    "date": "2026-03-13",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "BAJAJ FINSERV 1011",
+    "amount": 8405.37,
+    "category": "EMI",
+    "date": "2026-03-15",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "NOBROKER RENT 5179",
+    "amount": 36865.32,
+    "category": "Rent",
+    "date": "2026-03-17",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "HDFC BANK EMI 8042",
+    "amount": 6450.0,
+    "category": "EMI",
+    "date": "2026-03-18",
+    "type": "DEBIT"
+  },
+  {
+    "user_id": "user_4",
+    "merchant": "MYNTRA COM 4845",
+    "amount": 714.25,
+    "category": "Shopping",
+    "date": "2026-03-18",
+    "type": "DEBIT"
+  }
+]

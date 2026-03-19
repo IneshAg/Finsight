@@ -1,0 +1,147 @@
+@import "tailwindcss";
+
+/* ─── Design Tokens ─────────────────────────────────────────── */
+:root {
+  --bg-base: #080D09;
+  --bg-card: #0F1612;
+  --bg-elevated: #162018;
+  --border-subtle: rgba(255,255,255,0.08);
+  --border-medium: rgba(255,255,255,0.12);
+  --text-primary: #FFFFFF;
+  --text-secondary: rgba(255,255,255,0.5);
+  --text-muted: rgba(255,255,255,0.3);
+  --green: #22c55e;
+  --red: #ef4444;
+  --amber: #f59e0b;
+}
+
+html, body, #root {
+  background: var(--bg-base);
+  color: var(--text-primary);
+  margin: 0;
+  padding: 0;
+}
+
+/* ─── Typography Scale ──────────────────────────────────────── */
+.hero-number {
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1;
+}
+
+.card-label {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.section-divider {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 28px 0;
+}
+.section-divider::before,
+.section-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: var(--border-subtle);
+}
+.section-divider span {
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+/* ─── Card Depth System ─────────────────────────────────────── */
+.card-base {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 16px;
+  padding: 20px;
+  transition: border-color 200ms ease;
+}
+.card-base:hover {
+  border-color: var(--border-medium);
+}
+
+.card-elevated {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 16px;
+  padding: 20px;
+}
+
+/* Colored top-border variants */
+.card-green { border-top: 3px solid #22c55e; }
+.card-red   { border-top: 3px solid #ef4444; }
+.card-amber { border-top: 3px solid #f59e0b; }
+.card-blue  { border-top: 3px solid #3b82f6; }
+
+/* ─── Animations ────────────────────────────────────────────── */
+@keyframes fillBar {
+  from { width: 0%; }
+  to   { width: var(--fill-width); }
+}
+.progress-bar-animated {
+  animation: fillBar 800ms ease-out forwards;
+}
+
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up {
+  animation: fadeUp 400ms ease-out forwards;
+}
+
+/* ─── Buttons ───────────────────────────────────────────────── */
+.btn-primary {
+  background: #22c55e;
+  color: black;
+  font-weight: 700;
+  border-radius: 12px;
+  padding: 12px 24px;
+  transition: all 150ms ease;
+  cursor: pointer;
+  border: none;
+}
+.btn-primary:hover {
+  background: #16a34a;
+  transform: scale(1.02);
+}
+.btn-primary:active {
+  transform: scale(0.98);
+}
+
+.btn-danger {
+  background: transparent;
+  color: #ef4444;
+  font-weight: 600;
+  border: 1px solid #ef4444;
+  border-radius: 12px;
+  padding: 12px 24px;
+  transition: all 150ms ease;
+  cursor: pointer;
+}
+.btn-danger:hover {
+  background: rgba(239,68,68,0.1);
+}
+
+/* ─── Scrollbar Hide ────────────────────────────────────────── */
+* { scrollbar-width: none; }
+*::-webkit-scrollbar { display: none; }
+
+/* ─── Custom scrollbar (opt-in) ─────────────────────────────── */
+.custom-scrollbar { scrollbar-width: thin; }
+.custom-scrollbar::-webkit-scrollbar { display: block; width: 4px; }
+.custom-scrollbar::-webkit-scrollbar-track { background: transparent; }
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #374151;
+  border-radius: 2px;
+}

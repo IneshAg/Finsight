@@ -1,0 +1,39 @@
+{
+  "HDFC Swiggy Card": {
+    "Swiggy": 10,
+    "Food and Dining": 5,
+    "Online": 1,
+    "Default": 1
+  },
+  "HDFC Regalia": {
+    "Travel": 5,
+    "Food and Dining": 3,
+    "Default": 1.33
+  },
+  "SBI SimplyClick": {
+    "Amazon": 5,
+    "Apollo": 5,
+    "BookMyShow": 5,
+    "Cleartrip": 5,
+    "Lenskart": 5,
+    "Netmeds": 5,
+    "Online": 2.5,
+    "Default": 0.25
+  },
+  "Amazon Pay ICICI": {
+    "Amazon": 5,
+    "Shopping": 2,
+    "Default": 1
+  },
+  "Axis Magnus": {
+    "Travel": 4,
+    "Shopping": 4,
+    "Food and Dining": 4,
+    "Default": 1.2
+  },
+  "Amex Gold": {
+    "Travel": 2,
+    "Shopping": 2,
+    "Default": 1
+  }
+}

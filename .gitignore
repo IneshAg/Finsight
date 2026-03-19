@@ -1,0 +1,27 @@
+# Node
+node_modules/
+dist/
+.vite/
+build_log.txt
+error.log
+full_error.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env_new/
+
+# Database
+*.db
+finsight.db
+
+# Environment variables
+.env
+.env.local
+
+# OS
+.DS_Store
+__MACOSX/

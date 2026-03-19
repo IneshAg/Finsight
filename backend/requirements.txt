@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+httpx
+python-dotenv
+asyncpg
+sqlalchemy
+scikit-learn
+pandas
+joblib
+numpy
+firebase-admin
